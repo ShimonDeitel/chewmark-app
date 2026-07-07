@@ -1,0 +1,28 @@
+{
+  "identifier" : "Chewmark",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "chewmark_pro",
+      "localizations" : [
+        {
+          "description" : "Dental cleaning reminders and vet checkup interval suggestions",
+          "displayName" : "Chewmark Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "chewmark_pro",
+      "referenceName" : "Chewmark Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
