@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: ChewmarkTests
-      - path: Chewmark.storekit
     dependencies:
       - target: Chewmark
     settings:
